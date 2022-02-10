@@ -1,6 +1,11 @@
 # INTRODUCTION <BR/>
 This project is created for Railway Reservation booking using different concepts by which the user can reserve easily or cancel or can get the details of passenger. This project has made so easy to book tickets by sitting at home.
 
+# FEATURES <BR/>
+1. Booking ticket
+2. Cancellation of ticket
+3. Generating details of passenger
+
 # 4W's AND 1H <BR/>
 # WHO <BR/>
 All can use it from adult to old age people. Its common for all.
