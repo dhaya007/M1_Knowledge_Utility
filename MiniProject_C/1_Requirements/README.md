@@ -41,3 +41,22 @@ Sometimes server problem may occur due to crowd in the website.
 # Threats <BR/>
 May be due to server down, there may occur any error.
 
+# DETAILS REQUIREMENTS
+
+# High Level Requirement 
+
+| ID | Description | Status (Implemented/In Progress/Future)|
+|-----|------------|-------------------------------------------|
+| HR01 | User shall be able to login | Implemented |
+| HR02 | User shall be able to book ticket | Implemented |
+| HR03 | User shall be able to check the passenger details | Implemented |
+| HR04 | User shall be able to cancel the booking | Implemented |
+
+
+# Low Level Requirement 
+
+| ID | Description | Status (Implemented/In Progress/ Future)|
+|----|-------------|------------------------------------------|
+| LR01 | User can book only if the account is registered | Implemented |
+| LR02 | User can register the account | Implemented |
+
