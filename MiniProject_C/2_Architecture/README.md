@@ -1,9 +1,15 @@
 ## BEHAVIOR DIAGRAM <BR/>
 
-HIGH LEVEL DIAGRAM : Activity Diagram
-LOW LEVEL DIAGRAM : Sequence Diagram
+HIGH LEVEL DIAGRAM
+1. Activity Diagram
+
+LOW LEVEL DIAGRAM
+1. Sequence Diagram
 
 ## STRUCTURE DIAGRAM <BR/>
 
-HIGH LEVEL DIAGRAM : Components Diagram
-LOW LEVEL DIAGRAM : Data Flow Diagram
+HIGH LEVEL DIAGRAM
+1. Components Diagram
+
+LOW LEVEL DIAGRAM
+1. Data Flow Diagram
