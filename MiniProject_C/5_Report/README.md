@@ -1,1 +1,58 @@
+## INTRODUCTION <BR/>
+This project is created for Railway Reservation booking using different concepts by which the user can reserve easily or cancel or can get the details of passenger. This project has made so easy to book tickets by sitting at home.
 
+## FEATURES <BR/>
+Booking ticket
+Cancellation of ticket
+Generating details of passenger
+
+## 4W's AND 1H <BR/>
+
+## WHO <BR/>
+All can use it from adult to old age people. Its common for all.
+
+## WHEN <BR/>
+Whenever someone needs to reserve a ticket, they can use it.
+
+## WHERE <BR/>
+Since it is very user friendly, it can be used anywhere using this code.
+
+## WHY <BR/>
+It is very easy to operate.
+It is user friendly
+It functions quickly
+It saves time.
+
+## HOW <BR/>
+It has all functions for booking tickets, cancellation of tickets and generating the passenger details.
+
+## SWOT ANALYSIS <BR/>
+
+## Strength <BR/>
+It is easy to use.
+It gives quick response.
+All can use this.
+
+## Weakness <BR/>
+Sometimes server problem may occur due to crowd in the website.
+
+## Opportunities <BR/>
+It has more scope in future, since everything is turning in digital.
+Since it's so user friendly and can be used by all common people, it has more scope.
+
+## Threats <BR/>
+May be due to server down, there may occur any error.
+
+## DETAILS REQUIREMENTS <BR/>
+
+## High Level Requirement <BR/>
+
+HR01	User shall be able to login.
+HR02	User shall be able to book ticket.
+HR03	User shall be able to check the passenger details.
+HR04	User shall be able to cancel the booking.
+
+## Low Level Requirement <BR/>
+
+LR01	User can book only if the account is registered.
+LR02	User can register the account.
