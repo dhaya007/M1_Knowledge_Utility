@@ -1,4 +1,4 @@
-## INTRODUCTION <BR/>
+# INTRODUCTION <BR/>
 This project is created for Railway Reservation booking using different concepts by which the user can reserve easily or cancel or can get the details of passenger. This project has made so easy to book tickets by sitting at home.
 
 ## FEATURES <BR/>
@@ -6,7 +6,7 @@ Booking ticket
 Cancellation of ticket
 Generating details of passenger
 
-## 4W's AND 1H <BR/>
+# 4W's AND 1H <BR/>
 
 ## WHO <BR/>
 All can use it from adult to old age people. Its common for all.
@@ -26,7 +26,7 @@ It saves time.
 ## HOW <BR/>
 It has all functions for booking tickets, cancellation of tickets and generating the passenger details.
 
-## SWOT ANALYSIS <BR/>
+# SWOT ANALYSIS <BR/>
 
 ## Strength <BR/>
 It is easy to use.
@@ -43,7 +43,7 @@ Since it's so user friendly and can be used by all common people, it has more sc
 ## Threats <BR/>
 May be due to server down, there may occur any error.
 
-## DETAILS REQUIREMENTS <BR/>
+# REQUIREMENTS <BR/>
 
 ## High Level Requirement <BR/>
 
@@ -56,3 +56,22 @@ HR04	User shall be able to cancel the booking.
 
 LR01	User can book only if the account is registered.
 LR02	User can register the account.
+
+# ARCHITECTURE
+
+## BEHAVIOR DIAGRAM <BR/>
+
+HIGH LEVEL DIAGRAM
+1. Activity Diagram
+
+LOW LEVEL DIAGRAM
+1. Sequence Diagram
+
+## STRUCTURE DIAGRAM <BR/>
+
+HIGH LEVEL DIAGRAM
+1. Components Diagram
+
+LOW LEVEL DIAGRAM
+1. Data Flow Diagram
+
