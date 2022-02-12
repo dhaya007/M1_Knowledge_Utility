@@ -80,7 +80,7 @@ LOW LEVEL DIAGRAM
 ![](https://github.com/dhaya007/M1_Knowledge_Utility/blob/main/MiniProject_C/2_Architecture/Structural%20Diagram/Data%20Flow%20Diagram.jpg)
 
 
-# Test Plan 
+# TEST PLAN 
 
 | ID | Description | Exp Input | Ex Output | Actual Output | Pass/Fail |
 |----|-------------|------------|----------|---------------|-----------|
@@ -90,3 +90,15 @@ LOW LEVEL DIAGRAM
 | HR04 | Cancel a ticket | ID number | Your ticket is cancelled | Your ticket is cnacelled | PASS |
 | HR05 | Passenger details | ID number | Details displayed | Details displayed | PASS |
 
+
+
+# OUTPUT
+
+## Booking a ticket <BR/>
+![](https://github.com/dhaya007/M1_Knowledge_Utility/blob/main/MiniProject_C/6_ImagesAndVideos/Booking%20.jpeg)
+
+## Cancellation of ticket <BR/>
+![](https://github.com/dhaya007/M1_Knowledge_Utility/blob/main/MiniProject_C/6_ImagesAndVideos/Cancellation.jpeg)
+
+## Details of Passenger <BR/>
+![](https://github.com/dhaya007/M1_Knowledge_Utility/blob/main/MiniProject_C/6_ImagesAndVideos/Details.jpeg)
