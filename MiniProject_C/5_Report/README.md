@@ -63,15 +63,19 @@ LR02	User can register the account.
 
 HIGH LEVEL DIAGRAM
 1. Activity Diagram
+![](https://github.com/dhaya007/M1_Knowledge_Utility/blob/main/MiniProject_C/2_Architecture/Behavior%20Diagram/Activity%20Diagram.jpg)
 
 LOW LEVEL DIAGRAM
 1. Sequence Diagram
+![](https://github.com/dhaya007/M1_Knowledge_Utility/blob/main/MiniProject_C/2_Architecture/Behavior%20Diagram/Sequence%20Diagram.jpg)
 
 ## STRUCTURE DIAGRAM <BR/>
 
 HIGH LEVEL DIAGRAM
 1. Components Diagram
+![](https://github.com/dhaya007/M1_Knowledge_Utility/blob/main/MiniProject_C/2_Architecture/Structural%20Diagram/Components%20Diagram.jpg)
 
 LOW LEVEL DIAGRAM
 1. Data Flow Diagram
+![](https://github.com/dhaya007/M1_Knowledge_Utility/blob/main/MiniProject_C/2_Architecture/Structural%20Diagram/Data%20Flow%20Diagram.jpg)
 
