@@ -1,4 +1,5 @@
 [![CI](https://github.com/dhaya007/M1_Knowledge_Utility/actions/workflows/main.yml/badge.svg)](https://github.com/dhaya007/M1_Knowledge_Utility/actions/workflows/main.yml)
+[![Git Inspector](https://github.com/dhaya007/M1_Knowledge_Utility/actions/workflows/Git%20Inspector.yml/badge.svg)](https://github.com/dhaya007/M1_Knowledge_Utility/actions/workflows/Git%20Inspector.yml)
 
 
 
