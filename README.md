@@ -1,5 +1,7 @@
-# M1_Knowledge_Utility <BR/>
+[![CI](https://github.com/dhaya007/M1_Knowledge_Utility/actions/workflows/main.yml/badge.svg)](https://github.com/dhaya007/M1_Knowledge_Utility/actions/workflows/main.yml)
 
+
+# M1_Knowledge_Utility <BR/>
 
 ## RAILWAY RESERVATION BOOKING <BR/>
 This project is created for Railway Reservation booking using different concepts by which the user can reserve easily or cancel or can get the details of passenger. This project has made so easy to book tickets by sitting at home.
