@@ -1,6 +1,11 @@
 [![CI](https://github.com/dhaya007/M1_Knowledge_Utility/actions/workflows/main.yml/badge.svg)](https://github.com/dhaya007/M1_Knowledge_Utility/actions/workflows/main.yml)
 
 
+
+<a href="https://app.codiga.io/public/user/github/dhaya007">
+   <img src="https://api.codiga.io/public/badge/user/github/dhaya007?style=dark" alt="codiga badge" />
+</a>
+
 # M1_Knowledge_Utility <BR/>
 
 ## RAILWAY RESERVATION BOOKING <BR/>
