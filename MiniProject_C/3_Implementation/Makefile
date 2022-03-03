@@ -2,7 +2,8 @@ PROJ_NAME = Reservation
 SRC = src/reserve.c\
 src/ticket.c\
 
-#TEST_SRC = 
+TEST_SRC = test/test.c\
+unity/unity.c\
 
 #To check if the OS is windows or linux and set the executable file extension and delete command accordingly
 ifdef OS
