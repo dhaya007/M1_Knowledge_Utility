@@ -38,4 +38,4 @@ This project is created for Railway Reservation booking using different concepts
 |--------|------|-------|
 |99007630    | DHAYANITHI M  | RAILWAY RESERVATION BOOKING |
 
-## The code of this project is learnt from geeksforgeeks website.
+## The code of this project is learnt from geeksforgeeks.
