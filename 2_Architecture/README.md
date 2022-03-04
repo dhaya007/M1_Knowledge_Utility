@@ -1,1 +1,16 @@
+## BEHAVIOR DIAGRAM <BR/>
+
+HIGH LEVEL DIAGRAM
+1. Activity Diagram
+
+LOW LEVEL DIAGRAM
+1. Sequence Diagram
+
+## STRUCTURE DIAGRAM <BR/>
+
+HIGH LEVEL DIAGRAM
+1. Components Diagram
+
+LOW LEVEL DIAGRAM
+1. Data Flow Diagram
 
